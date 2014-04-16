@@ -9,10 +9,10 @@ class SuperEcho
 	{
 		$this->echo = htmlspecialchars($echo, ENT_QUOTES, 'utf-8');
 		$this->times = is_int($times) === true ? $times : 10;
-		$this->tenEcho();
+		$this->aLotOfEcho();
 	}
 	
-	public function tenEcho()
+	public function aLotOfEcho()
 	{
 		for($i = $this->times; $i > 1; $i--){
 			echo $this->echo . '<br>';
