@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+	rewriteEngine On
+	rewriteCond %{REQUEST_FILENAME} !-f
+	rewriteRule ^(.*)$ index.php [QSA,L]
+</IfModule>

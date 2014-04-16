@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DbManager.php" server="C:/xampp/htdocs/" local="130420288191934433" remote="130420288190000000" Dst="0" />
+<file name="DbRepository.php" server="C:/xampp/htdocs/" local="130419463829027665" remote="130419463820000000" Dst="0" />
+<file name="Session.php" server="C:/xampp/htdocs/" local="130409709175484729" remote="130409709170000000" Dst="0" />
+<file name="Application.php" server="C:/xampp/htdocs/" local="130415936316654713" remote="130415936310000000" Dst="0" />
+<file name="ClassLoader.php" server="C:/xampp/htdocs/" local="130416560333631188" remote="130416560330000000" Dst="0" />
+<file name="Request.php" server="C:/xampp/htdocs/" local="130408843024540643" remote="130408843020000000" Dst="0" />
+<file name="Response.php" server="C:/xampp/htdocs/" local="130415998428057282" remote="130415998420000000" Dst="0" />
+<file name="Router.php" server="C:/xampp/htdocs/" local="130415965450201057" remote="130415965450000000" Dst="0" />
+<file name="HttpNotFoundException.php" server="C:/xampp/htdocs/" local="130409792800000000" remote="130409792800000000" Dst="0" />
+<file name="Controller.php" server="C:/xampp/htdocs/" local="130420302998371313" remote="130420302990000000" Dst="0" />
+<file name="View.php" server="C:/xampp/htdocs/" local="130409847318126036" remote="130409847310000000" Dst="0" />
+<file name="UnauthorizedActionException.php" server="C:/xampp/htdocs/" local="130413353110000000" remote="130413353110000000" Dst="0" />
+</dwsync>
