@@ -8,11 +8,11 @@ class SuperEcho
 	function __construct($echo, $times)
 	{
 		$this->echo = htmlspecialchars($echo, ENT_QUOTES, 'utf-8');
-		is_int($times)? $this->times = $times : $this->times = 10;
-		$this->tenEcho();
+		$this->times = is_int($times) === true ? $times : 10;
+		$this->aLotOfEcho();
 	}
 	
-	public function tenEcho()
+	public function aLotOfEcho()
 	{
 		for($i = $this->times; $i > 1; $i--){
 			echo $this->echo . '<br>';
@@ -21,4 +21,4 @@ class SuperEcho
 
 }
 
-$echo = new SuperEcho('test','12');
+$echo = new SuperEcho('teseeet',20);
